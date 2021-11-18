@@ -76,5 +76,4 @@ Distributed under the MIT License.
 
 Dylan Fontenot - dylanfontenot@protonmail.com
 
-Project Link: [https://github.com/dylfont/dfportfolio](https://github.com/dylfont/dfportfolio) []
-            
+Project Link: [https://github.com/dylfont/dfportfolio](https://github.com/dylfont/dfportfolio)
